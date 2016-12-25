@@ -44,12 +44,12 @@ margin: 0 auto;
 background: #050300 ;
 }
 
-header
+#img header
 {
     width: 940px;
     height:400px;
     margin: 0 auto;
-    background: url(images/img.jpg) no-repeat left top;
+    background: no-repeat left top;
     text-align : left-side;
 }
 
