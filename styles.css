@@ -168,6 +168,11 @@ color: #FFFFFF;
 }
 
 /** ARTICLES **/
+article
+{
+    padding :  0 60px 0 0;
+    text-align : justify;
+}
 article img {
 border: none;
 -webkit-box-shadow: 3px 3px 7px #777;
